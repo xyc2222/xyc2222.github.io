@@ -5,7 +5,7 @@ date: 2023-07-09
 comments: true
 toc: true
 tags: [随笔]
-author: NY2025xyc
+author: 谢雨辰
 ---
 
 > [自从何老师写我](https://mp.weixin.qq.com/s/uG0JQvFBNvhGL9Uw42pXtQ)，平平无奇的我便很是沾上些何老师的光，闲不下笔的我也便想写她很久了。前些天她提了一句，于是就有了这篇零碎文章。
