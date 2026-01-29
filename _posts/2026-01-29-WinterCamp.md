@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "雪兆丰年——Dramatic and Inevitable."
-date: 2026-02-13
+date: 2026-01-29
 comments: true
 toc: true
 tags: [随笔]
